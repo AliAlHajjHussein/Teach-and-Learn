@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Teach And Learn</string>
+    <string name="welcome_to_our_app_where_you_can_contact_your_teacher_or_your_student_please_choose_one_of_the_following_depending_on_your_case">Welcome to our app where you can contact your teacher or your student. please choose one of the following depending on your case :</string>
+    <string name="register">Register</string>
+    <string name="go">GO</string>
+    <string name="whom_you_are">Whom you are ?</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="let_us_know_if_you_are_a_techer_student_or_somone_who_needs_to_add_his_cv">let us know if you are a techer, student or somone who needs to add his cv :</string>
+    <string name="textview">TextView</string>
+    <string name="delete">DELETE</string>
+
+
+</resources>
